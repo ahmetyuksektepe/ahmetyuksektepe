@@ -1,16 +1,22 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=8A2BE2&width=435&lines=HELLO!+I+'M+AHMET!)](https://git.io/typing-svg)
 
-<!--
-**ahmetyuksektepe/ahmetyuksektepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__I'm a Computer Engineering student who is passionate about learning and growing through real-world projects. I explore many areas of software development and continuously improve myself by diving into both frontend and backend technologies. Feel free to connect with me or ask anything you'd like!__
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmetf-y/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Languages and Tools  
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,ts,js,nodejs,react,nextjs,nuxtjs,flutter,dart,postgres,spring,supabase,docker,git,postman)](https://skillicons.dev) 
+
+## 📌 GitHub Stats and Top Languages
+
+<p float="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetyuksektepe&show_icons=true&count_private=true&hide=issues&theme=default" alt="Ahmet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyuksektepe&layout=compact&hide=html,css&theme=default" alt="Top Languages" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ahmetyuksektepe&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
