@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=4CAF50&width=435&lines=HELLO!+I+'M+AHMET!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=4CAF50&width=435&lines=HI!+I+'M+AHMET!)](https://git.io/typing-svg)
 
 __I'm a Computer Engineering student who is passionate about learning and growing through real-world projects. I explore many areas of software development and continuously improve myself by diving into both frontend and backend technologies. Feel free to connect with me or ask anything you'd like!__
 
