@@ -6,7 +6,7 @@ __I'm a Computer Engineering student who is passionate about learning and growin
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmetf-y/)
 
 ## 🚀 Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,ts,js,nodejs,react,nextjs,nuxtjs,postgres,spring,supabase,docker,git,postman)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,ts,nodejs,react,nextjs,postgres,spring,supabase,docker,git,postman,nestjs)](https://skillicons.dev) 
 
 ## 📌 GitHub Stats and Top Languages
 
